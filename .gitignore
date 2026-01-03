@@ -1,0 +1,35 @@
+# Virtual environments
+.venv/
+
+# Compiled bytecode
+__pycache__/
+*.pyc
+
+# Logs / junk
+*.log
+
+# Jupyter notebooks checkpoints (if you use them later)
+.ipynb_checkpoints/
+
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+chapter_16/the_csv_file_format/
+/chapter_16/mapping_global_datasets
